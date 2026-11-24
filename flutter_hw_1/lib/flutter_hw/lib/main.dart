@@ -1,4 +1,4 @@
 import 'package:flutter/material.dart';
-import 'feedBackApp.dart';
+import 'marketApp.dart';
 
-void main() => runApp(FeedBackApp());
+void main() => runApp(MarketApp());
