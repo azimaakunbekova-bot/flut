@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
-import 'marketApp.dart';
 
-void main() => runApp(MarketApp());
+import 'shopeApp.dart';
+
+void main() => runApp(ShopeApp());
